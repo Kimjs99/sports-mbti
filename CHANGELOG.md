@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.1.1] - 2026-03-05
+
+### 🐛 Bug Fixes
+- `background-clip: text` 표준 속성 추가 — `-webkit-background-clip`만 선언 시 발생하는 호환성 경고 해결 (`index.html`)
+
+### 📝 Documentation
+- `CLAUDE.md` 신규 추가 — 프로젝트 구조, 알고리즘, 로컬 실행 방법 등 Claude Code 가이드 (한국어)
+
 ## [v0.1.0] - 2026-03-05
 
 ### ✨ Features
